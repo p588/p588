@@ -1,503 +1,206 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Matam Preethi – Frontend Developer</title>
-<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;700;800&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
-<style>
-  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+<div align="center">
 
-  :root {
-    --blue-deep: #042C53;
-    --blue-strong: #185FA5;
-    --blue-mid: #378ADD;
-    --blue-light: #85B7EB;
-    --blue-pale: #E6F1FB;
-    --blue-accent: #0C447C;
-    --white: #ffffff;
-    --off-white: #f4f8fd;
-    --text-dark: #0a1628;
-    --text-mid: #2a4a72;
-    --text-muted: #5a80a8;
-  }
+<!-- FIX 1: Purple gradient wave header — matches portfolio brand color exactly -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:9D4EDD,100:C084FC&height=130&section=header&text=Krishna%20Koushik%20Unnam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Engineer%20%C2%B7%20Cloud%20%C2%B7%20Applied%20AI&descAlignY=62&descSize=16&descColor=E9D5FF" />
 
-  body {
-    font-family: 'DM Sans', sans-serif;
-    background: var(--off-white);
-    color: var(--text-dark);
-    min-height: 100vh;
-    overflow-x: hidden;
-  }
+<!-- Typing animation — brand purple -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&width=740&lines=Building+reliable+full-stack+systems+that+ship.;LangGraph+%7C+RAG+Pipelines+%7C+PEFT+%7C+Azure+AKS+%7C+Kafka;.NET+%7C+Spring+Boot+%7C+React+%7C+TypeScript+%7C+Python;M.S.+CS+%40+USF+%C2%B7+3.95+GPA+%7C+Open+to+SWE+%2F+AI+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-  /* HERO */
-  .hero {
-    background: linear-gradient(135deg, var(--blue-deep) 0%, var(--blue-accent) 50%, var(--blue-strong) 100%);
-    padding: 64px 48px 80px;
-    position: relative;
-    overflow: hidden;
-  }
+<br/>
 
-  .hero::before {
-    content: '';
-    position: absolute;
-    width: 480px; height: 480px;
-    border-radius: 50%;
-    border: 80px solid rgba(55,138,221,0.15);
-    top: -160px; right: -120px;
-    pointer-events: none;
-  }
+<!-- Coding GIF — clean, professional, centered -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="coding" />
 
-  .hero::after {
-    content: '';
-    position: absolute;
-    width: 280px; height: 280px;
-    border-radius: 50%;
-    border: 50px solid rgba(133,183,235,0.12);
-    bottom: -80px; left: 40px;
-    pointer-events: none;
-  }
+<br/><br/>
 
-  .hero-badge {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    background: rgba(255,255,255,0.1);
-    border: 1px solid rgba(255,255,255,0.2);
-    border-radius: 100px;
-    padding: 6px 16px;
-    font-size: 12px;
-    font-weight: 500;
-    color: var(--blue-pale);
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    margin-bottom: 24px;
-  }
+<!-- Badge row 1 — portfolio + resume -->
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-9D4EDD?style=for-the-badge)](https://my-portfolio-1beeyxjwi-krishnakoushik225s-projects.vercel.app)
+[![Resume](https://img.shields.io/badge/📄_Resume-Download_PDF-DC2626?style=for-the-badge)](https://krishnakoushik-portfolio.vercel.app/resume.pdf)
 
-  .hero-badge::before {
-    content: '';
-    width: 6px; height: 6px;
-    border-radius: 50%;
-    background: #5DCAA5;
-    display: block;
-  }
+<br/>
 
-  .hero h1 {
-    font-family: 'Syne', sans-serif;
-    font-size: clamp(42px, 7vw, 72px);
-    font-weight: 800;
-    color: var(--white);
-    line-height: 1.05;
-    margin-bottom: 16px;
-    letter-spacing: -0.02em;
-  }
+<!-- Badge row 2 — social -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-koushik-unnam-a952741b5)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnakoushiku@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishnakoushik225)
 
-  .hero h1 span {
-    color: var(--blue-light);
-  }
+<br/>
 
-  .hero-sub {
-    font-size: 18px;
-    color: rgba(255,255,255,0.65);
-    font-weight: 300;
-    margin-bottom: 36px;
-    max-width: 480px;
-    line-height: 1.6;
-  }
+<!-- Status pills -->
+![GPA](https://img.shields.io/badge/M.S._CS_@_USF-3.95%2F4.0_GPA-006747?style=flat-square)
+![XP](https://img.shields.io/badge/Enterprise_XP-3.7%2B_Years-7C3AED?style=flat-square)
+![Roles](https://img.shields.io/badge/Open_To-SWE_·_AI%2FML_·_Full--Stack-0284C7?style=flat-square)
+[![Profile Views](https://komarev.com/ghpvc/?username=krishnakoushik225&style=flat-square&color=9D4EDD&label=👁️+Profile+Views&abbreviated=true)](https://github.com/krishnakoushik225)
 
-  .hero-cta {
-    display: inline-flex;
-    align-items: center;
-    gap: 10px;
-    background: var(--white);
-    color: var(--blue-deep);
-    padding: 14px 28px;
-    border-radius: 100px;
-    font-weight: 500;
-    font-size: 15px;
-    text-decoration: none;
-    cursor: pointer;
-    border: none;
-    transition: transform 0.2s, box-shadow 0.2s;
-    font-family: 'DM Sans', sans-serif;
-  }
+</div>
 
-  .hero-cta:hover { transform: translateY(-2px); box-shadow: 0 12px 32px rgba(4,44,83,0.3); }
-  .hero-cta svg { width: 16px; height: 16px; }
+---
 
-  /* SECTION LAYOUT */
-  .section {
-    padding: 56px 48px;
-  }
+## About
 
-  .section-label {
-    font-family: 'Syne', sans-serif;
-    font-size: 11px;
-    letter-spacing: 0.14em;
-    text-transform: uppercase;
-    color: var(--blue-mid);
-    font-weight: 700;
-    margin-bottom: 10px;
-  }
+Full-stack engineer with 3.7 years across healthcare (Optum), fintech (BNP Paribas), and academic platforms (USF) — and a parallel track in applied AI research. I build production systems end-to-end: API design, cloud deployment, observability, and on-call ownership.
 
-  .section-title {
-    font-family: 'Syne', sans-serif;
-    font-size: clamp(26px, 4vw, 36px);
-    font-weight: 800;
-    color: var(--blue-deep);
-    margin-bottom: 40px;
-    letter-spacing: -0.01em;
-    line-height: 1.15;
-  }
+On the AI side, I'm more interested in correctness and explainability than benchmark scores. Every system I build includes citation grounding, confidence thresholds, or structured failure modes — because a system that fails loudly is more useful in production than one that fails silently.
 
-  /* ABOUT */
-  .about-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 32px;
-    align-items: start;
-  }
+> **Currently exploring:** multi-agent coordination patterns, vLLM inference optimisation, Rust for systems programming.
 
-  .about-text {
-    font-size: 16px;
-    line-height: 1.75;
-    color: var(--text-mid);
-  }
+---
 
-  .contact-card {
-    background: var(--white);
-    border: 1px solid rgba(55,138,221,0.2);
-    border-radius: 16px;
-    padding: 28px;
-  }
+## Tech Stack
 
-  .contact-row {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-    padding: 10px 0;
-    border-bottom: 1px solid var(--blue-pale);
-    font-size: 14px;
-    color: var(--text-mid);
-  }
+<div align="center">
 
-  .contact-row:last-child { border-bottom: none; }
+<!-- Animated colorful skill icon grid -->
+[![Skills](https://skillicons.dev/icons?i=cs,java,python,ts,js,cpp,react,angular,nextjs,tailwind,dotnet,spring,fastapi,django,postgres,redis,kafka,docker,kubernetes,azure,aws,git,linux,figma,postman,pytorch,vscode,idea&theme=dark&perline=14)](https://skillicons.dev)
 
-  .contact-icon {
-    width: 32px; height: 32px;
-    border-radius: 8px;
-    background: var(--blue-pale);
-    display: flex; align-items: center; justify-content: center;
-    flex-shrink: 0;
-  }
+</div>
 
-  .contact-icon svg { width: 14px; height: 14px; stroke: var(--blue-strong); fill: none; stroke-width: 2; stroke-linecap: round; }
+<details>
+<summary><b>Full stack breakdown</b></summary>
 
-  /* SKILLS */
-  .skills-bg {
-    background: var(--blue-deep);
-  }
+<br/>
 
-  .skills-bg .section-label { color: var(--blue-light); }
-  .skills-bg .section-title { color: var(--white); }
+| Layer | Technologies |
+|---|---|
+| **Languages** | C#, Java, Python, TypeScript, JavaScript (ES6+), C++, PowerShell |
+| **Backend** | ASP.NET Core, Spring Boot, FastAPI, Django, EF Core, Hibernate |
+| **Frontend** | React, Angular, Next.js, Redux Toolkit, TanStack Query, Tailwind CSS |
+| **AI & ML** | LangGraph, PyTorch, PEFT, LoRA, OpenAI GPT-4, Pinecone, HuggingFace, Ollama |
+| **Cloud** | Azure AKS, Azure Functions, Cosmos DB, AWS (EC2/S3/Lambda/SQS), Docker, Kubernetes |
+| **Data** | Apache Kafka, SQL Server, PostgreSQL, Redis, MySQL, Cosmos DB |
+| **Security** | JWT, OAuth 2.0, RBAC, Spring Security, ASP.NET Identity, Azure Key Vault |
+| **Tools** | Git, Postman, VS Code, IntelliJ IDEA, Jira, Linux/Bash, GitHub Actions |
 
-  .skills-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-    gap: 12px;
-  }
+</details>
 
-  .skill-chip {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 8px;
-    background: rgba(255,255,255,0.07);
-    border: 1px solid rgba(255,255,255,0.1);
-    border-radius: 12px;
-    padding: 16px 8px;
-    text-align: center;
-    transition: background 0.2s, transform 0.2s;
-    cursor: default;
-  }
+---
 
-  .skill-chip:hover {
-    background: rgba(55,138,221,0.2);
-    border-color: rgba(55,138,221,0.5);
-    transform: translateY(-3px);
-  }
+## Impact at a Glance
 
-  .skill-chip-icon {
-    width: 32px; height: 32px;
-    border-radius: 8px;
-    display: flex; align-items: center; justify-content: center;
-    font-size: 18px;
-    background: rgba(255,255,255,0.08);
-  }
+<!-- NEW: Visual metric banner — shows production numbers as scannable highlights -->
+<div align="center">
 
-  .skill-chip-name {
-    font-size: 11px;
-    font-weight: 500;
-    color: rgba(255,255,255,0.75);
-    line-height: 1.3;
-  }
+| 🏥 Healthcare | 🎓 Academic | 🏦 Fintech | 🤖 AI Research |
+|:---:|:---:|:---:|:---:|
+| **3,500+** events/min Kafka | **5,000+** daily users | **30%** fewer errors | **F1: 0.589** ECG benchmark |
+| **35%** MTTR reduction | **820ms→310ms** API | **20 hrs/week** saved | **60%** fewer parameters |
+| **100K+** patient records | **99.6%** uptime | 4 trading desks | **2.1×** train efficiency |
 
-  /* CATEGORIES */
-  .skill-categories {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
-    margin-bottom: 32px;
-  }
+</div>
 
-  .skill-cat {
-    background: rgba(255,255,255,0.05);
-    border: 1px solid rgba(255,255,255,0.08);
-    border-radius: 14px;
-    padding: 20px;
-  }
+---
 
-  .skill-cat-title {
-    font-family: 'Syne', sans-serif;
-    font-size: 12px;
-    font-weight: 700;
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
-    color: var(--blue-light);
-    margin-bottom: 14px;
-    padding-bottom: 10px;
-    border-bottom: 1px solid rgba(133,183,235,0.2);
-  }
+## What I've Shipped
 
-  .skill-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 6px;
-  }
+```
+🏥  Optum        Kafka pipelines at 3,500+ events/min · MTTR reduced 35% · 100K+ patient records
+🎓  USF          5,000+ daily users · 820ms→310ms API latency · 99.6% uptime · 60% faster page load
+🏦  BNP Paribas  4 trading desks · 30% fewer reconciliation errors · 20 hrs/week saved
+🧠  ECG-PEFT     Wav2Vec2+LoRA: F1 0.589 / AUC 0.620 · 60% fewer trainable parameters
+🤖  ResearchFlow  Cited answers in <30s · Stateful LangGraph retry on confidence threshold
+🔒  ContextFlow  100% on-device inference · Zero cloud API calls · Sub-second on consumer hardware
+```
 
-  .skill-tag {
-    background: rgba(55,138,221,0.2);
-    border: 1px solid rgba(55,138,221,0.3);
-    color: var(--blue-light);
-    font-size: 12px;
-    padding: 4px 10px;
-    border-radius: 100px;
-  }
+---
 
-  /* CONNECT */
-  .connect-section {
-    background: var(--blue-pale);
-  }
+## Featured Projects
 
-  .connect-card {
-    background: var(--white);
-    border: 1px solid rgba(55,138,221,0.25);
-    border-radius: 20px;
-    padding: 40px;
-    text-align: center;
-    max-width: 560px;
-    margin: 0 auto;
-  }
+<div align="center">
 
-  .connect-avatar {
-    width: 72px; height: 72px;
-    border-radius: 50%;
-    background: linear-gradient(135deg, var(--blue-strong), var(--blue-mid));
-    display: flex; align-items: center; justify-content: center;
-    font-family: 'Syne', sans-serif;
-    font-size: 24px;
-    font-weight: 800;
-    color: var(--white);
-    margin: 0 auto 20px;
-    letter-spacing: -0.02em;
-  }
+<!-- FIX 2: Replaced generic code GIF with relevant neural network / AI GIF -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzVtMGNwMzN3dDFqbHlzbGszamhxYzFuY2R1bjNudDZwdm50aGFmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="260" alt="AI pipeline" />
 
-  .connect-name {
-    font-family: 'Syne', sans-serif;
-    font-size: 22px;
-    font-weight: 800;
-    color: var(--blue-deep);
-    margin-bottom: 6px;
-  }
+</div>
 
-  .connect-role {
-    font-size: 14px;
-    color: var(--text-muted);
-    margin-bottom: 28px;
-  }
+### [ResearchFlow AI](https://github.com/krishnakoushik225/langgraph-research-agent) — Agentic LLM Research Platform
+![Language](https://img.shields.io/github/languages/top/krishnakoushik225/langgraph-research-agent?style=flat-square&color=3776AB)
+![Last Commit](https://img.shields.io/github/last-commit/krishnakoushik225/langgraph-research-agent?style=flat-square&color=9D4EDD)
 
-  .connect-links {
-    display: flex;
-    justify-content: center;
-    gap: 12px;
-    flex-wrap: wrap;
-  }
+Self-correcting LangGraph agent: Planner → Decomposer → Search → Verifier → Synthesizer. Delivers citation-grounded answers in under 30 seconds via stateful graphs with conditional retry edges on confidence-scored results — not possible in a linear chain.
 
-  .connect-btn {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    padding: 10px 20px;
-    border-radius: 100px;
-    font-size: 13px;
-    font-weight: 500;
-    text-decoration: none;
-    border: 1.5px solid var(--blue-strong);
-    color: var(--blue-strong);
-    transition: all 0.2s;
-    cursor: pointer;
-    background: transparent;
-    font-family: 'DM Sans', sans-serif;
-  }
+`Python` `LangGraph` `FastAPI` `Tavily` `React` `TypeScript` `Ollama`
 
-  .connect-btn.primary {
-    background: var(--blue-strong);
-    color: var(--white);
-    border-color: var(--blue-strong);
-  }
+---
 
-  .connect-btn:hover { transform: translateY(-2px); }
+### [ECG-PEFT Bench](https://github.com/krishnakoushik225/ecg-peft-benchmark) — Medical AI Benchmarking
+![Stars](https://img.shields.io/github/stars/krishnakoushik225/ecg-peft-benchmark?style=flat-square&color=9D4EDD)
+![Last Commit](https://img.shields.io/github/last-commit/krishnakoushik225/ecg-peft-benchmark?style=flat-square&color=9D4EDD)
 
-  /* DIVIDER */
-  .divider {
-    height: 4px;
-    background: linear-gradient(90deg, var(--blue-mid), var(--blue-light), transparent);
-    margin: 0;
-  }
+Benchmarked 4 PEFT strategies across 3 cardiac foundation models on 10K+ ECG segments. **Wav2Vec2 + LoRA** achieved best F1/AUC (0.589 / 0.620) with 60% fewer trainable parameters — structured model-selection report for clinical AI pipeline decisions.
 
-  @media (max-width: 600px) {
-    .hero { padding: 40px 24px 60px; }
-    .section { padding: 40px 24px; }
-    .about-grid { grid-template-columns: 1fr; }
-    .skill-categories { grid-template-columns: 1fr; }
-  }
-</style>
-</head>
-<body>
+`Python` `PyTorch` `HuggingFace` `PEFT` `Wav2Vec2` `HuBERT` `ECG-FM`
 
-<!-- HERO -->
-<section class="hero">
-  <div class="hero-badge">Available for opportunities</div>
-  <h1>Matam<br><span>Preethi</span></h1>
-  <p class="hero-sub">Frontend developer from India, passionate about building beautiful digital experiences.</p>
-  <button class="hero-cta" onclick="document.getElementById('contact').scrollIntoView({behavior:'smooth'})">
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,12 2,6"/></svg>
-    Get in touch
-  </button>
-</section>
+---
 
-<div class="divider"></div>
+### [DocuMind](https://github.com/krishnakoushik225/DocuMind) — RAG Document Intelligence
+![Last Commit](https://img.shields.io/github/last-commit/krishnakoushik225/DocuMind?style=flat-square&color=9D4EDD)
+![Language](https://img.shields.io/github/languages/top/krishnakoushik225/DocuMind?style=flat-square&color=3776AB)
 
-<!-- ABOUT -->
-<section class="section">
-  <p class="section-label">Who I am</p>
-  <h2 class="section-title">Crafting interfaces<br>with purpose</h2>
-  <div class="about-grid">
-    <p class="about-text">
-      I'm a passionate frontend developer based in India, dedicated to turning ideas into clean, functional, and visually compelling web experiences. I combine a strong design eye with solid technical foundations across the full stack.
-      <br><br>
-      From pixel-perfect HTML & CSS to scalable cloud infrastructure, I love the end-to-end process of building something that works beautifully.
-    </p>
-    <div id="contact" class="contact-card">
-      <div class="contact-row">
-        <div class="contact-icon">
-          <svg viewBox="0 0 24 24"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,12 2,6"/></svg>
-        </div>
-        <div>
-          <div style="font-size:11px;color:var(--text-muted);margin-bottom:2px;">Email</div>
-          <div style="font-weight:500;color:var(--blue-strong);font-size:14px;">matampreethi@gmail.com</div>
-        </div>
-      </div>
-      <div class="contact-row">
-        <div class="contact-icon">
-          <svg viewBox="0 0 24 24"><circle cx="12" cy="10" r="3"/><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/></svg>
-        </div>
-        <div>
-          <div style="font-size:11px;color:var(--text-muted);margin-bottom:2px;">Location</div>
-          <div style="font-weight:500;font-size:14px;">India</div>
-        </div>
-      </div>
-      <div class="contact-row">
-        <div class="contact-icon">
-          <svg viewBox="0 0 24 24"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/></svg>
-        </div>
-        <div>
-          <div style="font-size:11px;color:var(--text-muted);margin-bottom:2px;">TopCoder</div>
-          <div style="font-weight:500;color:var(--blue-strong);font-size:14px;">members/201031</div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+Pinecone-backed RAG platform with GPT-4 generation and citation grounding — every answer surfaces the exact source passage for auditable, verifiable multi-document Q&A with sub-second retrieval latency.
 
-<div class="divider"></div>
+`Python` `FastAPI` `Pinecone` `OpenAI GPT-4` `React` `TypeScript`
 
-<!-- SKILLS -->
-<section class="section skills-bg">
-  <p class="section-label">Tech stack</p>
-  <h2 class="section-title">Languages & Tools</h2>
+---
 
-  <div class="skill-categories">
-    <div class="skill-cat">
-      <div class="skill-cat-title">Frontend</div>
-      <div class="skill-tags">
-        <span class="skill-tag">HTML5</span>
-        <span class="skill-tag">CSS3</span>
-        <span class="skill-tag">Bootstrap</span>
-        <span class="skill-tag">JavaScript</span>
-      </div>
-    </div>
-    <div class="skill-cat">
-      <div class="skill-cat-title">Backend & Data</div>
-      <div class="skill-tags">
-        <span class="skill-tag">Python</span>
-        <span class="skill-tag">MySQL</span>
-        <span class="skill-tag">PostgreSQL</span>
-      </div>
-    </div>
-    <div class="skill-cat">
-      <div class="skill-cat-title">Cloud & DevOps</div>
-      <div class="skill-tags">
-        <span class="skill-tag">AWS</span>
-        <span class="skill-tag">Azure</span>
-        <span class="skill-tag">GCP</span>
-        <span class="skill-tag">Docker</span>
-        <span class="skill-tag">Kubernetes</span>
-        <span class="skill-tag">Jenkins</span>
-      </div>
-    </div>
-  </div>
+### [ContextFlow AI](https://github.com/krishnakoushik225/contextflow-ai) — Privacy-First Local LLM Chrome Extension
+![Last Commit](https://img.shields.io/github/last-commit/krishnakoushik225/contextflow-ai?style=flat-square&color=9D4EDD)
 
-  <div class="skills-grid">
-    <div class="skill-chip"><div class="skill-chip-icon">🐧</div><div class="skill-chip-name">Linux</div></div>
-    <div class="skill-chip"><div class="skill-chip-icon">🌿</div><div class="skill-chip-name">Git</div></div>
-    <div class="skill-chip"><div class="skill-chip-icon">🎨</div><div class="skill-chip-name">Illustrator</div></div>
-    <div class="skill-chip"><div class="skill-chip-icon">🖼</div><div class="skill-chip-name">Photoshop</div></div>
-    <div class="skill-chip"><div class="skill-chip-icon">⚡</div><div class="skill-chip-name">Arduino</div></div>
-  </div>
-</section>
+100% on-device inference via Ollama + Llama 3.2 — zero cloud API calls, no data leaves the browser. Manifest V3 service worker as persistent agent runtime with dynamic tool routing and sub-second response times.
 
-<div class="divider"></div>
+`TypeScript` `React` `Chrome Manifest V3` `Ollama` `Llama 3.2` `Vite` `Tailwind CSS`
 
-<!-- CONNECT -->
-<section class="section connect-section">
-  <div class="connect-card">
-    <div class="connect-avatar">MP</div>
-    <div class="connect-name">Matam Preethi</div>
-    <div class="connect-role">Frontend Developer · India</div>
-    <div class="connect-links">
-      <a href="mailto:matampreethi@gmail.com" class="connect-btn primary">
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,12 2,6"/></svg>
-        Email me
-      </a>
-      <a href="https://www.topcoder.com/members/201031" target="_blank" class="connect-btn">
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>
-        TopCoder
-      </a>
-    </div>
-  </div>
-</section>
+---
 
-</body>
-</html>
+### [APSRTC Duty Portal](https://github.com/krishnakoushik225/APSRTC-Duty-Management-Portal) · [GenDiff-PEFT](https://github.com/krishnakoushik225/GenDiff-PEFT-Efficient-Conditional-Diffusion-Optimization) · [CLAP-AudioLDM](https://github.com/krishnakoushik225/CLAP-Optimized-Text-to-Audio-Generation-AudioLDM-)
+
+Workforce management for 500+ employees with optimistic locking for concurrent shift-assignment safety. **GenDiff-PEFT** — 2.1× training efficiency, 60% fewer parameters, FID within 8% of full fine-tuning. **CLAP-AudioLDM** — 15%+ CLAP alignment improvement via multi-candidate quality-aware selection.
+
+---
+
+## Professional Experience
+
+| Company | Role | Period |
+|---|---|---|
+| **University of South Florida** | Application Developer — .NET · React · Azure | Sep 2024 – Present |
+| **Optum (UnitedHealth Group)** | Associate Software Developer — .NET · Angular · Azure | Jul 2023 – Aug 2024 |
+| **BNP Paribas** | Software Engineer — Spring Boot · React · AWS | Jun 2022 – Jul 2023 |
+
+---
+
+## Education
+
+| Degree | Institution | GPA |
+|---|---|---|
+| M.S. Computer Science & Engineering | University of South Florida | **3.95 / 4.0** |
+| B.Tech. Computer Science & Engineering | Amrita Vishwa Vidyapeetham | 8.31 / 10 |
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<!-- Activity graph — purple branded, full width -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=krishnakoushik225&bg_color=0b1020&color=9D4EDD&line=9D4EDD&point=C084FC&area=true&area_color=9D4EDD&hide_border=true&title_color=9D4EDD" />
+
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/krishnakoushik225/krishnakoushik225/output/github-snake-dark.svg" alt="contribution snake" />
+</div>
+
+---
+
+<!-- FIX 1: Purple gradient wave footer matching the header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,50:9D4EDD,100:7C3AED&height=100&section=footer&animation=fadeIn" />
+
+<div align="center">
+
+**Open to SWE · AI/ML Engineer · Full-Stack Engineer roles — US-wide, available June 2026**
+
+[![View Portfolio](https://img.shields.io/badge/View_Portfolio-9D4EDD?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-1beeyxjwi-krishnakoushik225s-projects.vercel.app)
+[![Download Resume](https://img.shields.io/badge/Download_Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://my-portfolio-1beeyxjwi-krishnakoushik225s-projects.vercel.app/resume.pdf)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=krishnakoushik225&style=for-the-badge&color=9D4EDD&label=Profile+Views&abbreviated=true)](https://github.com/krishnakoushik225)
+
+</div>
