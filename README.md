@@ -12,13 +12,13 @@
 
 ### 👩‍💻 About Me
 
-- 🔭 I'm currently working on **frontend & cloud projects**
+- 🔭 Currently working as a Cybersecurity Engineer at MindSprint, focusing on security operations and threat analysis.
 - 🌱 I'm currently learning **React, Next.js & advanced cloud architecture**
-- 💬 Ask me about **HTML, CSS, Bootstrap, Python, Docker, Cloud**
+- 💬 Experienced with **Cyberattack Analysis, Security Operations Center and Security Investigation**
 - 🎨 I love blending **design + code** using Photoshop & Illustrator
 - ⚡ Fun fact: I also tinker with **Arduino & IoT hardware projects!**
-- 📫 Reach me at **matampreethi@gmail.com**
-- 🏆 Find me on **[TopCoder](https://www.topcoder.com/members/201031)**
+- 📫 Reach me at **mailto:matampreethi@gmail.com**
+- 🏆 Find me on **[Linkedln](www.linkedin.com/in/preethi-matam)**
 
 <br clear="right"/>
 
