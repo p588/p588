@@ -1,134 +1,206 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:042C53,40:185FA5,100:378ADD&height=200&section=header&text=Hey%2C%20I'm%20Matam%20Preethi%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Frontend%20Developer%20%7C%20Cloud%20Enthusiast%20%7C%20Creative%20Builder&descAlignY=62&descSize=17&descColor=B5D4F4" />
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=378ADD&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+profile!+%F0%9F%9A%80;I+build+clean+%26+beautiful+web+experiences.;HTML+%7C+CSS+%7C+Bootstrap+%7C+JavaScript+%7C+Python;AWS+%7C+Azure+%7C+GCP+%7C+Docker+%7C+Kubernetes;Always+learning%2C+always+building+%F0%9F%92%A1)](https://git.io/typing-svg)
+<!-- FIX 1: Purple gradient wave header — matches portfolio brand color exactly -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:9D4EDD,100:C084FC&height=130&section=header&text=Krishna%20Koushik%20Unnam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20AI/ML%20Engineer%20%C2%B7%20Cloud%20%C2%B7%20Applied%20AI&descAlignY=62&descSize=16&descColor=E9D5FF" />
+
+<!-- Typing animation — brand purple -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&width=740&lines=Building+reliable+full-stack+systems+that+ship.;LangGraph+%7C+RAG+Pipelines+%7C+PEFT+%7C+Azure+AKS+%7C+Kafka;Spring+Boot+%7C+.NET+%7C+React+%7C+TypeScript+%7C+Python;M.S.+CS+%40+USF+%C2%B7+3.95+GPA+%7C+Open+to+SWE+%2F+AI+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Coding GIF — clean, professional, centered -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="coding" />
+
+<br/><br/>
+
+<!-- Badge row 1 — portfolio + resume -->
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-9D4EDD?style=for-the-badge)](https://my-portfolio-1beeyxjwi-krishnakoushik225s-projects.vercel.app)
+[![Resume](https://img.shields.io/badge/📄_Resume-Download_PDF-DC2626?style=for-the-badge)](https://krishnakoushik-portfolio.vercel.app/resume.pdf)
+
+<br/>
+
+<!-- Badge row 2 — social -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-koushik-unnam-a952741b5)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnakoushiku@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishnakoushik225)
+
+<br/>
+
+<!-- Status pills -->
+![GPA](https://img.shields.io/badge/M.S._CS_@_USF-3.95%2F4.0_GPA-006747?style=flat-square)
+![XP](https://img.shields.io/badge/Enterprise_XP-3.7%2B_Years-7C3AED?style=flat-square)
+![Roles](https://img.shields.io/badge/Open_To-SWE_·_AI%2FML_·_Full--Stack-0284C7?style=flat-square)
+[![Profile Views](https://komarev.com/ghpvc/?username=krishnakoushik225&style=flat-square&color=9D4EDD&label=👁️+Profile+Views&abbreviated=true)](https://github.com/krishnakoushik225)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+## About
 
-### 👩‍💻 About Me
+Full-stack AI/ML Engineer with 4+ years across healthcare (Optum), fintech (BNP Paribas), and academic platforms (USF) — and a parallel track in applied AI research. I build production systems end-to-end: API design, cloud deployment, observability, and on-call ownership.
 
-- 🔭 Currently working as a Cybersecurity Engineer at MindSprint, focusing on security operations and threat analysis.
-- 🌱 I'm currently learning **React, Next.js & advanced cloud architecture**
-- 💬 Experienced with **Cyberattack Analysis, Security Operations Center and Security Investigation**
-- 🎨 I love blending **design + code** using Photoshop & Illustrator
-- ⚡ Fun fact: I also tinker with **Arduino & IoT hardware projects!**
-- 📫 Reach me at **mailto:matampreethi@gmail.com**
-- 🏆 Find me on **[Linkedln](www.linkedin.com/in/preethi-matam)**
+On the AI side, I'm more interested in correctness and explainability than benchmark scores. Every system I build includes citation grounding, confidence thresholds, or structured failure modes — because a system that fails loudly is more useful in production than one that fails silently.
 
-<br clear="right"/>
+> **Currently exploring:** multi-agent coordination patterns, vLLM inference optimisation, Rust for systems programming.
 
 ---
 
-### 🌐 Connect with Me
+## Tech Stack
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matampreethi@gmail.com)
-[![TopCoder](https://img.shields.io/badge/TopCoder-29A8E0?style=for-the-badge&logo=topcoder&logoColor=white)](https://www.topcoder.com/members/201031)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/p588)
+<!-- Animated colorful skill icon grid -->
+[![Skills](https://skillicons.dev/icons?i=cs,java,python,ts,js,cpp,react,angular,nextjs,tailwind,dotnet,spring,fastapi,django,postgres,redis,kafka,docker,kubernetes,azure,aws,git,linux,figma,postman,pytorch,vscode,idea&theme=dark&perline=14)](https://skillicons.dev)
+
+</div>
+
+<details>
+<summary><b>Full stack breakdown</b></summary>
+
+<br/>
+
+| Layer | Technologies |
+|---|---|
+| **Languages** | C#, Java, Python, TypeScript, JavaScript (ES6+), C++, PowerShell |
+| **Backend** | ASP.NET Core, Spring Boot, FastAPI, Django, EF Core, Hibernate |
+| **Frontend** | React, Angular, Next.js, Redux Toolkit, TanStack Query, Tailwind CSS |
+| **AI & ML** | LangGraph, PyTorch, PEFT, LoRA, OpenAI GPT-4, Pinecone, HuggingFace, Ollama |
+| **Cloud** | Azure AKS, Azure Functions, Cosmos DB, AWS (EC2/S3/Lambda/SQS), Docker, Kubernetes |
+| **Data** | Apache Kafka, SQL Server, PostgreSQL, Redis, MySQL, Cosmos DB |
+| **Security** | JWT, OAuth 2.0, RBAC, Spring Security, ASP.NET Identity, Azure Key Vault |
+| **Tools** | Git, Postman, VS Code, IntelliJ IDEA, Jira, Linux/Bash, GitHub Actions |
+
+</details>
+
+---
+
+## Impact at a Glance
+
+<!-- NEW: Visual metric banner — shows production numbers as scannable highlights -->
+<div align="center">
+
+| 🏥 Healthcare | 🎓 Academic | 🏦 Fintech | 🤖 AI Research |
+|:---:|:---:|:---:|:---:|
+| **3,500+** events/min Kafka | **5,000+** daily users | **30%** fewer errors | **F1: 0.589** ECG benchmark |
+| **35%** MTTR reduction | **820ms→310ms** API | **20 hrs/week** saved | **60%** fewer parameters |
+| **100K+** patient records | **99.6%** uptime | 4 trading desks | **2.1×** train efficiency |
 
 </div>
 
 ---
 
-### 🛠️ Languages & Tools
+## What I've Shipped
 
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=p588&show_icons=true&theme=tokyonight&bg_color=0b1220&title_color=378ADD&icon_color=85B7EB&text_color=B5D4F4&border_color=185FA5&count_private=true&hide_border=false" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p588&layout=compact&theme=tokyonight&bg_color=0b1220&title_color=378ADD&text_color=B5D4F4&border_color=185FA5&hide_border=false" />
-
-</div>
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=p588&theme=tokyonight&background=0b1220&ring=378ADD&fire=85B7EB&currStreakLabel=378ADD&border=185FA5&sideLabels=B5D4F4&dates=7ba3c8" />
-
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-
-[![Preethi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=p588&bg_color=0b1220&color=378ADD&line=378ADD&point=85B7EB&area=true&area_color=185FA5&hide_border=true&title_color=378ADD)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=p588&theme=tokyonight&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-### 💡 A Little More About Me
-
-```javascript
-const preethi = {
-  name:       "Matam Preethi",
-  location:   "India 🇮🇳",
-  role:       "Frontend Developer",
-  languages:  ["HTML", "CSS", "JavaScript", "Python"],
-  cloud:      ["AWS", "Azure", "GCP"],
-  devops:     ["Docker", "Kubernetes", "Jenkins"],
-  databases:  ["MySQL", "PostgreSQL"],
-  design:     ["Photoshop", "Illustrator"],
-  hardware:   ["Arduino"],
-  passion:    "Building things that look great and work reliably 🚀",
-  funFact:    "I debug CSS at midnight and it sparks joy ✨",
-  openTo:     ["Frontend Roles", "Cloud Roles", "DevOps Roles"],
-};
+```
+🏥  Optum        Kafka pipelines at 3,500+ events/min · MTTR reduced 35% · 100K+ patient records
+🎓  USF          5,000+ daily users · 820ms→310ms API latency · 99.6% uptime · 60% faster page load
+🏦  BNP Paribas  4 trading desks · 30% fewer reconciliation errors · 20 hrs/week saved
+🧠  ECG-PEFT     Wav2Vec2+LoRA: F1 0.589 / AUC 0.620 · 60% fewer trainable parameters
+🤖  ResearchFlow  Cited answers in <30s · Stateful LangGraph retry on confidence threshold
+🔒  ContextFlow  100% on-device inference · Zero cloud API calls · Sub-second on consumer hardware
 ```
 
 ---
 
+## Featured Projects
+
 <div align="center">
 
-### 👁️ Profile Views
-
-[![](https://komarev.com/ghpvc/?username=p588&style=for-the-badge&color=378ADD&label=PROFILE+VIEWS)](https://github.com/p588)
-
-*"First, solve the problem. Then, write the code." — John Johnson*
+<!-- FIX 2: Replaced generic code GIF with relevant neural network / AI GIF -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzVtMGNwMzN3dDFqbHlzbGszamhxYzFuY2R1bjNudDZwdm50aGFmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="260" alt="AI pipeline" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:378ADD,50:185FA5,100:042C53&height=120&section=footer&animation=fadeIn" />
+### [ResearchFlow AI](https://github.com/krishnakoushik225/langgraph-research-agent) — Agentic LLM Research Platform
+![Language](https://img.shields.io/github/languages/top/krishnakoushik225/langgraph-research-agent?style=flat-square&color=3776AB)
+![Last Commit](https://img.shields.io/github/last-commit/krishnakoushik225/langgraph-research-agent?style=flat-square&color=9D4EDD)
+
+Self-correcting LangGraph agent: Planner → Decomposer → Search → Verifier → Synthesizer. Delivers citation-grounded answers in under 30 seconds via stateful graphs with conditional retry edges on confidence-scored results — not possible in a linear chain.
+
+`Python` `LangGraph` `FastAPI` `Tavily` `React` `TypeScript` `Ollama`
+
+---
+
+### [ECG-PEFT Bench](https://github.com/krishnakoushik225/ecg-peft-benchmark) — Medical AI Benchmarking
+![Stars](https://img.shields.io/github/stars/krishnakoushik225/ecg-peft-benchmark?style=flat-square&color=9D4EDD)
+![Last Commit](https://img.shields.io/github/last-commit/krishnakoushik225/ecg-peft-benchmark?style=flat-square&color=9D4EDD)
+
+Benchmarked 4 PEFT strategies across 3 cardiac foundation models on 10K+ ECG segments. **Wav2Vec2 + LoRA** achieved best F1/AUC (0.589 / 0.620) with 60% fewer trainable parameters — structured model-selection report for clinical AI pipeline decisions.
+
+`Python` `PyTorch` `HuggingFace` `PEFT` `Wav2Vec2` `HuBERT` `ECG-FM`
+
+---
+
+### [DocuMind](https://github.com/krishnakoushik225/DocuMind) — RAG Document Intelligence
+![Last Commit](https://img.shields.io/github/last-commit/krishnakoushik225/DocuMind?style=flat-square&color=9D4EDD)
+![Language](https://img.shields.io/github/languages/top/krishnakoushik225/DocuMind?style=flat-square&color=3776AB)
+
+Pinecone-backed RAG platform with GPT-4 generation and citation grounding — every answer surfaces the exact source passage for auditable, verifiable multi-document Q&A with sub-second retrieval latency.
+
+`Python` `FastAPI` `Pinecone` `OpenAI GPT-4` `React` `TypeScript`
+
+---
+
+### [ContextFlow AI](https://github.com/krishnakoushik225/contextflow-ai) — Privacy-First Local LLM Chrome Extension
+![Last Commit](https://img.shields.io/github/last-commit/krishnakoushik225/contextflow-ai?style=flat-square&color=9D4EDD)
+
+100% on-device inference via Ollama + Llama 3.2 — zero cloud API calls, no data leaves the browser. Manifest V3 service worker as persistent agent runtime with dynamic tool routing and sub-second response times.
+
+`TypeScript` `React` `Chrome Manifest V3` `Ollama` `Llama 3.2` `Vite` `Tailwind CSS`
+
+---
+
+### [APSRTC Duty Portal](https://github.com/krishnakoushik225/APSRTC-Duty-Management-Portal) · [GenDiff-PEFT](https://github.com/krishnakoushik225/GenDiff-PEFT-Efficient-Conditional-Diffusion-Optimization) · [CLAP-AudioLDM](https://github.com/krishnakoushik225/CLAP-Optimized-Text-to-Audio-Generation-AudioLDM-)
+
+Workforce management for 500+ employees with optimistic locking for concurrent shift-assignment safety. **GenDiff-PEFT** — 2.1× training efficiency, 60% fewer parameters, FID within 8% of full fine-tuning. **CLAP-AudioLDM** — 15%+ CLAP alignment improvement via multi-candidate quality-aware selection.
+
+---
+
+## Professional Experience
+
+| Company | Role | Period |
+|---|---|---|
+| **University of South Florida** | Application Developer — .NET · React · Azure | Sep 2024 – Present |
+| **Optum (UnitedHealth Group)** | Associate Software Developer — .NET · Angular · Azure | Jul 2023 – Aug 2024 |
+| **BNP Paribas** | Software Engineer — Spring Boot · React · AWS | Jun 2022 – Jul 2023 |
+
+---
+
+## Education
+
+| Degree | Institution | GPA |
+|---|---|---|
+| M.S. Computer Science & Engineering | University of South Florida | **3.95 / 4.0** |
+| B.Tech. Computer Science & Engineering | Amrita Vishwa Vidyapeetham | 8.31 / 10 |
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<!-- Activity graph — purple branded, full width -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=krishnakoushik225&bg_color=0b1020&color=9D4EDD&line=9D4EDD&point=C084FC&area=true&area_color=9D4EDD&hide_border=true&title_color=9D4EDD" />
+
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/krishnakoushik225/krishnakoushik225/output/github-snake-dark.svg" alt="contribution snake" />
+</div>
+
+---
+
+<!-- FIX 1: Purple gradient wave footer matching the header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,50:9D4EDD,100:7C3AED&height=100&section=footer&animation=fadeIn" />
+
+<div align="center">
+
+**Open to SWE · AI/ML Engineer · Full-Stack Engineer roles — US-wide**
+
+[![View Portfolio](https://img.shields.io/badge/View_Portfolio-9D4EDD?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-1beeyxjwi-krishnakoushik225s-projects.vercel.app)
+[![Download Resume](https://img.shields.io/badge/Download_Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://my-portfolio-1beeyxjwi-krishnakoushik225s-projects.vercel.app/resume.pdf)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=krishnakoushik225&style=for-the-badge&color=9D4EDD&label=Profile+Views&abbreviated=true)](https://github.com/krishnakoushik225)
+
+</div>
