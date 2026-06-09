@@ -4,7 +4,8 @@
 ---
 
 <!-- Attractive moving header animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&width=900&lines=Defending+enterprises+against+cyber+threats.;Incident+Response+%7C+Threat+Hunting+%7C+SOC+Ops.;Reducing+phishing+emails+by+75%25.;Automating+security+workflows+with+Python+%26+PowerShell.;Hackathon+Winner+%7C+Learner+Award+%7C+Community+Volunteer.)](https://git.io/typing-svg)
+<!-- Attractive moving header animation in blue -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=1E3A8A&center=true&vCenter=true&width=900&lines=Defending+enterprises+against+cyber+threats.;Incident+Response+%7C+Threat+Hunting+%7C+SOC+Ops.;Reducing+phishing+emails+by+75%25.;Automating+security+workflows+with+Python+%26+PowerShell.;Hackathon+Winner+%7C+Learner+Award+%7C+Community+Volunteer.)](https://git.io/typing-svg)
 
 ---
 
