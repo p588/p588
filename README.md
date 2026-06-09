@@ -1,13 +1,16 @@
+<div align="center">
+
 # Hi, I'm Matam Preethi 👋  
 **Cybersecurity Engineer · SOC Operations · Threat Hunter**
 
 ---
 
-<!-- Attractive moving header animation -->
-<!-- Attractive moving header animation in blue -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=1E3A8A&center=true&vCenter=true&width=900&lines=Defending+enterprises+against+cyber+threats.;Incident+Response+%7C+Threat+Hunting+%7C+SOC+Ops.;Reducing+phishing+emails+by+75%25.;Automating+security+workflows+with+Python+%26+PowerShell.;Hackathon+Winner+%7C+Learner+Award+%7C+Community+Volunteer.)](https://git.io/typing-svg)
+<!-- Moving header animation in blue -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=900&lines=🔐+Endpoint+%26+Email+Security;🛡️+Incident+Response+%26+Threat+Hunting;⚡+SOC+Operations+%26+Vulnerability+Management;🤖+Automation+with+Python+%26+PowerShell;🏆+Hackathon+Winner+%7C+Learner+Award)](https://git.io/typing-svg)
 
 ---
+
+</div>
 
 ## 🚀 About Me  
 Cybersecurity Engineer with **1.8 years of professional experience** in endpoint security, incident response, and threat hunting across enterprise and cloud SOC environments. Skilled in both defensive and offensive security, with a strong focus on **reducing threats, automating workflows, and strengthening organizational defenses**.  
@@ -85,10 +88,12 @@ Currently pursuing **CompTIA Security+** and continuously learning emerging tech
 
 ---
 
+<div align="center">
+
 ## 🌐 Connect  
 
-- [LinkedIn](ca://s?q=Open_Preethi_Matam_LinkedIn)  
-- [GitHub](ca://s?q=Open_Preethi_Matam_GitHub)  
-- [Email](ca://s?q=Email_Preethi_Matam)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/preethi-matam)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/p588)  
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matampreethi@gmail.com)  
 
----
+</div>
